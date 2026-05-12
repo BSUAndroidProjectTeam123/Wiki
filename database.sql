@@ -1,0 +1,7 @@
+CREATE TABLE IF NOT EXISTS game_history (
+    id INTEGER PRIMARY KEY AUTOINCREMENT NOT NULL,
+    timestamp INTEGER NOT NULL,
+    playerScore INTEGER NOT NULL,
+    dealerScore INTEGER NOT NULL,
+    result TEXT NOT NULL
+);
