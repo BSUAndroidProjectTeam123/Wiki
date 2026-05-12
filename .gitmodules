@@ -1,0 +1,3 @@
+[submodule "Blackjack"]
+	path = Blackjack
+	url = git@github.com:BSUAndroidProjectTeam123/Blackjack.git
